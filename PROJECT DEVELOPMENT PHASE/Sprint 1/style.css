@@ -1,0 +1,47 @@
+body{
+  background-image:url('flights.webp');
+  background-position:center;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 45px;
+  width:30%;
+  margin: 0 auto;
+  }
+input[type=text] {
+          width:100%;
+}  
+input[type=password] {
+        width:100%;
+}
+input[type=submit] {
+  width:35%;
+  color:white;
+  background-color:#24a324;
+  font-size:25px;
+  border-radius:7px;
+  border:solid;
+  border-color:white;
+}
+input[type=reset] {
+  width:35%;
+  color:white;
+  background-color:rgb(252, 73, 73);
+  font-size:25px;
+  border-radius:7px;
+  border:solid;
+  border-color:white;
+}
+b{
+  text-align: center;
+  font-size:35px;
+  color:#4444d6;
+  text-decoration:underline;
+}
+button:hover{
+  color:#d4c8c836;
+}
+
+
+  
