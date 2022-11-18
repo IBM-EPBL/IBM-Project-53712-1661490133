@@ -1,6 +1,7 @@
 # IBM-Project-53712-1661490133
 Airlines Data Analytics for Avaition Industry
-![airliner-flying-sky-plexus-style-260nw](https://user-images.githubusercontent.com/115212402/202724011-0c546581-8c7a-40e4-a83c-7a8dd66ba461.jpeg)
+![airliner-flying-sky-plexus-style](https://user-images.githubusercontent.com/115212402/202726022-96a2a273-4803-4881-8b21-e255746ec187.jpg)
+
 The data analytics used in aviation industry is used to predict future glitches,prevent them from happening and make the maintenance procedures more accurate and through.
 
 -TEAM LEAD ==> HARIHARAN..M
